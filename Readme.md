@@ -36,7 +36,7 @@ for Div 3: \
 ![advance](goto.jpg)
 Now grant permissions to create events in calender and then you'll be prmted with code paste it in the output of 2nd Block of collab
 6. Now run the 3rd Block of collab (it may take a miniute to execute)
-7. Now you are **All done**
+7. Now you are **All done** check your Google calendar
 
 <!-- LICENSE -->
 ## License
