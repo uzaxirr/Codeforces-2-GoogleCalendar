@@ -26,7 +26,7 @@ Edit the division for which you want to add events it should be in the format as
 for Div 1: \
 ![div1](https://github.com/uzair-ali10/Codeforces-2-GoogleCalendar/blob/main/images/div1.jpg)
 for Div 2: \
-![div2](https://github.com/uzair-ali10/Codeforces-2-GoogleCalendar/blob/main/images/div2.jpg)
+![div2](https://github.com/uzair-ali10/Codeforces-2-GoogleCalendar/blob/main/images/div2.jpg) \
 for Div 3: \
 ![div3](https://github.com/uzair-ali10/Codeforces-2-GoogleCalendar/blob/main/images/div3.jpg)
 3. Run the first block i.e `pip install datefinder`
