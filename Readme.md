@@ -1,8 +1,8 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+![GitHub forks](https://img.shields.io/github/forks/uzair-ali10/Codeforces-2-GoogleCalendar?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/uzair-ali10/Codeforces-2-GoogleCalendar?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/uzair-ali10?style=flat-square)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/uzair-ali10/Codeforces-2-GoogleCalendar?style=flat-square)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
   <h3 align="center">Codeforces-2-GoogleCalender</h3>
@@ -45,14 +45,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/uzair-ali10/Codeforces-2-GoogleCalendar/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://img.shields.io/github/forks/uzair-ali10/Codeforces-2-GoogleCalendar?style=social
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://img.shields.io/github/stars/uzair-ali10/Codeforces-2-GoogleCalendar?style=social
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://img.shields.io/bitbucket/issues-raw/uzair-ali10/Codeforces-2-GoogleCalendar
+
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
