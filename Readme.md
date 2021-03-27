@@ -1,9 +1,9 @@
 
-![GitHub forks](https://img.shields.io/github/forks/uzair-ali10/Codeforces-2-GoogleCalendar?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/uzair-ali10/Codeforces-2-GoogleCalendar?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/uzair-ali10/Codeforces-2-GoogleCalendar?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/uzair-ali10?style=flat-square)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/uzair-ali10/Codeforces-2-GoogleCalendar?style=flat-square)
-[![MIT License][license-shield]][license-url]
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/uzair-ali10/Codeforces-2-GoogleCalendar?style=for-the-badge)
+![APM](https://img.shields.io/apm/l/MIT?style=for-the-badge)
 [![LinkedIn][linkedin-shield]][linkedin-url]
   <h3 align="center">Codeforces-2-GoogleCalender</h3>
 
