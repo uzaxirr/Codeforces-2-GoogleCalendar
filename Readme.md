@@ -1,7 +1,7 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/uzair-ali10/Codeforces-2-GoogleCalendar?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/uzair-ali10/Codeforces-2-GoogleCalendar?style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/uzair-ali10?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/uzair-ali10/Codeforces-2-GoogleCalendar?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/uzair-ali10?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/uzair-ali10/Codeforces-2-GoogleCalendar?style=for-the-badge)
 ![APM](https://img.shields.io/apm/l/MIT?style=for-the-badge)
 [![LinkedIn][linkedin-shield]][linkedin-url]
